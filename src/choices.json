@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Jesse Pinkman",
+    "image": "./images/jesse.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mike Ehrmantraut",
+    "image": "./images/mike.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hector Salamanca",
+    "image": "./images/hector.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Walter White",
+    "image": "./images/walt.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Saul Goodman",
+    "image": "./images/saul.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Marie Schrader",
+    "image": "./images/marie.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Skylar White",
+    "image": "./images/skylar.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gustavo Fring",
+    "image": "./images/gus.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hank Schrader",
+    "image": "./images/hank.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Walter White Jr.",
+    "image": "./images/junior.jpg"
+  }
+]
